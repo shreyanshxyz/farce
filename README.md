@@ -13,4 +13,4 @@
 1. Clone the repository
 2. cd into the repository using the terminal
 3. In the terminal, type "npm install"
-4. After its finished installing all the dependencies, type node bot.js to get the bot online
+4. After its finished installing all the dependencies, type node index.js to get the bot online
